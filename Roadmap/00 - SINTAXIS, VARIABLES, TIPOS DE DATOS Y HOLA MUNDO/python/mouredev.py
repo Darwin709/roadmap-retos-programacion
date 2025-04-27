@@ -1,34 +1,30 @@
-# https://python.org
+# Https //java.com
 
-# Comentario en una línea
+#mi primer comentario en linea
 
 """
-Esto también es
-un comentario
-en varias líneas
+Este es mi primer
+omentario 
+en varias lineas
 """
 
 '''
-Esto también es
-un comentario
-en varias líneas
+Este es mi segundo 
+comentario 
+en varias lineas
 '''
 
-my_variable = "Mi variable"
-my_variable = "Nuevo valor de mi variable"
+my_variable ="mis variable"
+my_variable ="unas de mis variable"
 
-MY_CONSTANT = "Mi constante"  # por convención
+my_constante = "mi unica constante" # por convencion
 
-my_int = 1
-my_float = 1.5
-my_bool = True
-my_bool = False
-my_string = "Mi cadena de texto"
-my_other_string = 'Mi otra cadena de texto'
+my_int = 2 
+my_float = 10
+my_bool = false
+my_bool = tue
+my_string = "Mis cadenas de texto" 
+my_other_string = 'una de mis cadenas de texto'
 
-print("¡Hola, Python!")
+print(*¡Hola, java!*)
 
-print(type(my_int))
-print(type(my_float))
-print(type(my_bool))
-print(type(my_string))
